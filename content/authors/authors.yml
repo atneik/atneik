@@ -1,17 +1,14 @@
-- name: Dennis Brotzky
+- name: Aniket Handa
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/dennis-brotzky.jpg
+    I'm Aniket Handa. I craft user experiences that blur the gap between humans and technology.
+  avatar: ./avatars/aniket.jpg
   featured: true
   social:
     - name: github
-      url: https://github.com
+      url: https://github.com/atneik
     - name: twitter
-      url: https://github.com
+      url: https://twitter.com/atneik
     - name: instagram
-      url: https://github.com
-    - name: dribbble
-      url: https://github.com
+      url: https://instagram.com/_aniket
     - name: linkedin
-      url: https://github.com
+      url: https://www.linkedin.com/in/atneik/

@@ -1,34 +1,30 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Aniket Handa`,
+    name: `Aniket Handa`,
+    siteUrl: `https://anikethanda.com`,
+    description: `Personal website of Aniket Handa. User Experience Engineer and Prototyper`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Hello!`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/atneik`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/atneik`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/_aniket`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
-      },
+        url: `https://www.linkedin.com/in/atneik/`,
+      }
     ],
   },
   plugins: [
@@ -48,11 +44,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Aniket Handa`,
+        short_name: `Aniket`,
         start_url: `/`,
-        background_color: `#fff`,
-        theme_color: `#fff`,
+        background_color: `#00f`,
+        theme_color: `#ff0`,
         display: `standalone`,
         icon: `src/assets/favicon.png`,
       },
